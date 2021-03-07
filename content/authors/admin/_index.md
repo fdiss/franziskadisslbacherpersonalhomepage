@@ -1,33 +1,34 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Franziska Disslbacher
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Economics and Social Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Vienna University of Econoimcs and Business
+  url: https://wu.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Labour Econoimcs, Public Economics, Economic Geography, Demography
+- Income and Wealth Distribution
+- Social Mobility
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Economics and Social Sciences
+    institution: WU Vienna
+    year: since 2016
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -45,13 +46,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/f_disslbacher
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=M9N1JbAAAAAJ&hl=de
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fidssl
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -67,11 +68,12 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+THIS PAGE IS WORK IN PROGRESS; CURRENTLY BEING TESTED! IT MAY CONTAIN INFORMATION THAT IS INCOMPLETE - OR - NOT CORRECT! THE FINAL PAGE WILL BE BUBLISHED WITHIN A COUPLE OF HOURS! TAHNK YOU  I am a PhD Candidate in Econmics at Vienna University of Economics and Business. My work centeres around the distribution of income and wealth and the causes and consequences of socio-economic inequalities, with a special emphasis on inter/intragenerational aspects and spatial inequalitites. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work has been published, for instance, in the Journal of the Royal Statistical Society Series A: Statistics in Society, Ecological Ecoomics and the Cambridge Journal of Regions, Economy and Society. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
