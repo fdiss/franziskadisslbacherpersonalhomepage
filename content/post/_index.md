@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Other Contributions
 cms_exclude: true
 
 # View.
