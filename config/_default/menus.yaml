@@ -14,7 +14,29 @@ main:
     url: '#projects'
     weight: 30
   - name: Other Contributions
-    url: '#posts'
+    url: ''
+    #url: '#posts'
+    identifier: "others"
+    weight: 40
+  - name: Blogs
+    parent: others
+    url: 'post/blogs'
+    #url: '#posts'
+    weight: 10
+  - name: Comments in the Media
+    parent: others
+    url: 'post/comments'
+    #url: '#posts'
+    weight: 20
+  - name: Review Articles
+    parent: others
+    url: 'post/review'
+    #url: '#posts'
+    weight: 30
+  - name: Others
+    parent: others
+    url: 'post/others'
+    #url: '#posts'
     weight: 40
   - name: Teaching
     url: '#teaching'
