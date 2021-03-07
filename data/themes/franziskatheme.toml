@@ -1,0 +1,29 @@
+# Theme metadata
+name = "franziskatheme"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#000000"
+
+# Menu
+menu_primary = "#D48D8D"
+menu_text = "#000000"
+menu_text_active = "#000000"
+menu_title = "#000000"
+
+
+#Backgrounds
+background = "#f0e5d8"
+
+# Home sections
+home_section_odd = "#f0e5d8"
+home_section_even = "#f0e5d8"
+
+dark_background = "#f0e5d8"
+dark_home_section_odd = "#f0e5d8"
+dark_home_section_even = "#f0e5d8"
+
+link = "#000000"
+link_hover = "#000000"
