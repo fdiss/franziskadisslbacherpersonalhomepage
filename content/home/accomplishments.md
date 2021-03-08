@@ -23,28 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
+  date_start: "2020-12-31"
+  description: Awarded for my PhD paper on intergenerational income mobility
+  organization: Austrian Economic Association
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  title: 'PhD Fellowship of the Austrian Economic Association (NOEG)'
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  date_start: "2018-08-25"
+  description: |2- The Nancy and Richard Ruggles Memorial provides for a Prize for a researcher or researchers aged 35 or under. The aim of the Prize is to promote the development of young researchers by recognizing their outstanding scholarship. I was awarded this prize for my paper on measurement error in survey income data. 
   organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization_url: http://iariw.org/
+  title: 'Nancy and Richard Ruggles Memorial Award'
+  url: http://iariw.org/conferences/ruggles-prize/
+- certificate_url: ""
+  date_end: ""
+  date_start: "2015-06-15"
+  description: "Awarded for my bachelor thesis on measurement error in surevy income data."
+  organization: Vienna University of Economic and Business
+  organization_url: https://www.wu.ac.at
+  title: 'TALENTA Award (WU Best Paper Prize)'
   url: ""
 ---
