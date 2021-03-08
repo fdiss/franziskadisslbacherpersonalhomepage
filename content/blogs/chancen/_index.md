@@ -1,5 +1,5 @@
 ---
-title: Soziale Mobilität in Österreich: 
+title: Soziale Mobilität in Österreich
 author: admin
 linkTitle: Chancengleichheit
 date: '2020-08-19'
