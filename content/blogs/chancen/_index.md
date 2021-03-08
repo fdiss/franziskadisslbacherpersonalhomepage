@@ -2,7 +2,6 @@
 title: Soziale Mobilität in Österreich - Illusion Chancengleichheit?
 author: admin
 linkTitle: Chancengleichheit
-summary: Die soziale Mobilität ist in Österreich gering. Einkommen, Beruf und Bildung werden maßgeblich vom sozialen Status der Eltern bestimmt. 
 date: '2020-08-19'
 type: book
 weight: 1
