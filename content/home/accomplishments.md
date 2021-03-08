@@ -34,15 +34,15 @@ item:
 - certificate_url: http://iariw.org/conferences/ruggles-prize/
 #  date_end: ""
   date_start: "2018-08-25"
-  description: Awarded for my PhD paper on measurement error in survey income data. 
+  description: Awarded for my PhD paper on measurement error in survey income data
   organization: International Association for Research on Income and Wealth
   organization_url: http://iariw.org/
   title: "Nancy and Richard Ruggles Memorial Award"
-  url: http://iariw.org/conferences/ruggles-prize/
+  #url: http://iariw.org/conferences/ruggles-prize/
  - certificate_url: ""
-  date_end: ""
+ # date_end: ""
   date_start: "2015-06-15"
-  description: Awarded for my bachelor thesis on measurement error in surevy income data.
+  description: Awarded for my bachelor thesis on measurement error in surevy income data
   organization: Vienna University of Economic and Business
   organization_url: https://www.wu.ac.at
   title: "TALENTA Award (WU Best Paper Prize)"
