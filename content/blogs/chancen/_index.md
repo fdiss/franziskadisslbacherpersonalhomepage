@@ -1,5 +1,5 @@
 ---
-title: Soziale Mobilität
+title: Soziale Mobilität in Österreich: Illusion Chancengleichheit? 
 author: admin
 linkTitle: Chancengleichheit
 date: '2020-08-19'
