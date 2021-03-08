@@ -3,7 +3,7 @@ title: Piketty - Ideen für mehr Verteilungsgerechtigkeit
 author: admin
 tags: ["Vermögensverteilung", "Piketty", "Ungleichheit", "Vermögenssteuer", "Wealth Inequality", "Wealth Distribution", "Taxation"]
 linkTitle: Verteilungsgerechtigkeit
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+summary: [This article has been published at the A&W Blog](ttps://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/)
 date: '2021-01-24'
 type: book
 links:
@@ -11,8 +11,6 @@ links:
     url: https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/
 ---
 
-
-[This article has been published at the A&W Blog](ttps://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/)
 
 {{< toc hide_on="xl" >}}
 
