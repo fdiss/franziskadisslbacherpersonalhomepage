@@ -12,6 +12,7 @@ links:
 ---
 
 
+[This article has been published at the A&W Blog](ttps://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/)
 
 {{< toc hide_on="xl" >}}
 
