@@ -23,7 +23,7 @@ twitter: ''
 email: franziska.disslbacher@wu.ac.at
 phone: +43 659 83 13 213
 address:
-  street: Vienna Chamber of Labour
+  street: Prinz-Eugen Straße 22-24
   city: Vienna
   region: Vienna
   postcode: '1040'
@@ -34,8 +34,8 @@ coordinates:
   longitude: ' 16.376592745833193'
 directions: Main entrance
 office_hours:
-  - Sign up via Calendly
-appointment_url: 'https://calendly.com'
+  - Students may sign up for office hours and consultations via calendly [here]('https://calendly.com/franziska-disslbacher/30min')
+appointment_url: 'https://calendly.com/franziska-disslbacher/30min'
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -45,10 +45,10 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
+ # - icon: keybase
+ #   icon_pack: fab
+ #   name: Chat on Keybase
+ #   link: 'https://keybase.io/'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
@@ -59,7 +59,7 @@ main_menu:
   enable: true
   align: r
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
   highlight_active_link: true
