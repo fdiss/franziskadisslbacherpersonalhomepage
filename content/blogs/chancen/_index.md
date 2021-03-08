@@ -1,7 +1,6 @@
 ---
-title: Soziale Mobilität in Österreich: Illusion Chancengleichheit?
+title: Soziale Mobilität in Österreich: Illusion Chancengleichheit
 author: admin
-#tags: ["Vermögensverteilung", "Piketty", "Ungleichheit", "Vermögenssteuer", "Wealth Inequality", "Wealth Distribution", "Taxation"]
 linkTitle: Chancengleichheit
 #summary: This articles argues that policy makers have to have an eye on both, inequality in outcomes and inequality in opportunities. 
 date: '2020-08-19'
