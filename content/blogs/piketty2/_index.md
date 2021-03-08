@@ -15,7 +15,9 @@ links:
 {{< toc hide_on="xl" >}}
 
 
-[This article has been published at A&WBlog](https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/)
+[This article has been published at](https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit)
+
+---
 
 Prominente VerteilungsforscherInnen, allen voran Thomas Piketty, haben in den letzten Wochen hitzige Debatten angeregt. Dieses Mal jedoch nicht primär aufgrund der Veröffentlichung neuer Daten oder Zahlen – zur Diskussion stehen Maßnahmen zur Reduktion von Ungleichheiten. Diese Vorschläge werden vom Ruf nach einer möglichst breiten demokratischen Debatte über Gerechtigkeitsvorstellungen begleitet.
 
