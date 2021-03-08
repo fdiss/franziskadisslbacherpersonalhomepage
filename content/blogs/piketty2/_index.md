@@ -3,7 +3,7 @@ title: Piketty - Ideen für mehr Verteilungsgerechtigkeit
 author: admin
 tags: ["Vermögensverteilung", "Piketty", "Ungleichheit", "Vermögenssteuer", "Wealth Inequality", "Wealth Distribution", "Taxation"]
 linkTitle: Verteilungsgerechtigkeit
-summary: [This article has been published at the A&W Blog](ttps://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/)
+summary: Short summary of the article
 date: '2021-01-24'
 type: book
 links:
@@ -14,6 +14,8 @@ links:
 
 {{< toc hide_on="xl" >}}
 
+
+[link to Google!](https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/)
 
 Prominente VerteilungsforscherInnen, allen voran Thomas Piketty, haben in den letzten Wochen hitzige Debatten angeregt. Dieses Mal jedoch nicht primär aufgrund der Veröffentlichung neuer Daten oder Zahlen – zur Diskussion stehen Maßnahmen zur Reduktion von Ungleichheiten. Diese Vorschläge werden vom Ruf nach einer möglichst breiten demokratischen Debatte über Gerechtigkeitsvorstellungen begleitet.
 
