@@ -29,15 +29,15 @@ item:
   description: Awarded for my PhD paper on intergenerational income mobility
   organization: Austrian Economic Association
   organization_url: https://www.coursera.org
-  title: 'PhD Fellowship of the Austrian Economic Association (NOEG)'
+  title: "PhD Fellowship of the Austrian Economic Association (NOEG)"
   url: ""
-- certificate_url: 
+- certificate_url: ""
   date_end: ""
   date_start: "2018-08-25"
   description: |2- The Nancy and Richard Ruggles Memorial provides for a Prize for a researcher or researchers aged 35 or under. The aim of the Prize is to promote the development of young researchers by recognizing their outstanding scholarship. I was awarded this prize for my paper on measurement error in survey income data. 
-  organization: edX
+  organization: "International Association for Research on Income and Wealth"
   organization_url: http://iariw.org/
-  title: 'Nancy and Richard Ruggles Memorial Award'
+  title: "Nancy and Richard Ruggles Memorial Award"
   url: http://iariw.org/conferences/ruggles-prize/
 - certificate_url: ""
   date_end: ""
@@ -45,6 +45,6 @@ item:
   description: "Awarded for my bachelor thesis on measurement error in surevy income data."
   organization: Vienna University of Economic and Business
   organization_url: https://www.wu.ac.at
-  title: 'TALENTA Award (WU Best Paper Prize)'
+  title: "TALENTA Award (WU Best Paper Prize)"
   url: ""
 ---
