@@ -1,21 +1,13 @@
 ---
-title: Zeit für eine neue Zeitverwendungserhebung
+title: Corona-Krise als Instrument der Gleichstellung?
 author: admin
-tags: ["Time-Use", "Gleichstellung"", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality", "Zeitverwendungserhebung"]
-linkTitle: Zve
-date: '2019-08-10'
+tags: ["COVID-19", "Gleichstellung", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality"]
+linkTitle: GleichstellungCovid
+summary: This article summarises some findings from a time-use survey conducted during the first lockdown in Austria. 
+date: '2020-06-20'
 type: book
-weight: 4
+weight: 3
 links:
     name: "Read the article at Blog Arbeit und Wirtschaft"
-    url: https://awblog.at/zeit-fuer-zeitverwendungserhebung
+    url: https://awblog.at/corona-krise-als-instrument-der-gleichstellung/
 ---
-
-
-{{< toc hide_on="xl" >}}
-
-
-[This article has been published at A&WBlog](https://awblog.at/zeit-fuer-zeitverwendungserhebung)
-
----
-
