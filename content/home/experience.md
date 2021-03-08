@@ -23,14 +23,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Economics of Distribution
-    company: ' '
+    company: Vienna University of Economics and Business
     company_url: ''
     location: Vienna
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Undergraduate class
    
         
@@ -50,7 +49,7 @@ experience:
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics. 
     
-  -  title: Empirical Social Research 
+  - title: Empirical Social Research 
     company: University, MSc Economics
     company_url: ''
     location: Vienna
