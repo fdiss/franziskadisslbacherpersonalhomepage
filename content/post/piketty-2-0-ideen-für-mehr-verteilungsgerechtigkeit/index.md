@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/
+[Klick here to read the article](https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/)
