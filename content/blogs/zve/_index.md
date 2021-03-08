@@ -3,7 +3,6 @@ title: Zeit für eine neue Zeitverwendungserhebung
 author: admin
 tags: ["Time-Use", "Gleichstellung"", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality", "Zeitverwendungserhebung"]
 linkTitle: ZVE
-summary: Warum auch in Österreich dringend eine neue Zeitverwendungserhebung beauftragt werden muss!
 date: '2020-08-10'
 type: book
 weight: 4
