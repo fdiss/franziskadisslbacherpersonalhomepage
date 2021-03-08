@@ -1,5 +1,5 @@
 ---
-title: Piketty: Ideen für mehr Verteilungsgerechtigkeit
+title: Piketty - Ideen für mehr Verteilungsgerechtigkeit
 linkTitle: Verteilungsgerechtigkeit
 summary: An example of using Wowchemy's Book layout for publishing online courses.
 date: '2021-01-24'
