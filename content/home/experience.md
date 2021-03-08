@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Teaching at WU Vienna
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Economics of Distribution
+    company: ' '
     company_url: ''
-    location: California
+    location: Vienna
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Undergraduate class
+   
         
-  - title: Professor
-    company: University X
+  - title: Spatial Economics 
+    company: University, MSc Economics
     company_url: ''
-    location: California
+    location: Vienna
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Empirical Social Research 
+    company: University, MSc Economics
+    company_url: ''
+    location: Vienna
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Taught electronic engineering and researched semiconductor physics. 
+    
+  -  title: Empirical Social Research 
+    company: University, MSc Economics
+    company_url: ''
+    location: Vienna
+    date_start: '2016-01-01'
+    date_end: '2016-12-31'
+    description: Taught electronic engineering and researched semiconductor physics. 
+    
 ---
