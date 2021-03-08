@@ -1,5 +1,5 @@
 ---
-title: Piketty 2\.0 - Ideen für mehr Verteilungsgerechtigkeit
+title: Piketty 2.0 - Ideen für mehr Verteilungsgerechtigkeit
 author: admin
 tags: ["Vermögensverteilung", "Piketty", "Ungleichheit", "Vermögenssteuer", "Wealth Inequality", "Wealth Distribution", "Taxation"]
 linkTitle: Verteilungsgerechtigkeit
