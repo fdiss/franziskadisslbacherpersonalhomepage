@@ -1,4 +1,5 @@
 ---
+title: Franziska Disslbacher
 role: PhD Candidate in Economics and Social Sciences
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -33,15 +34,14 @@ education:
     - course: BSc in Economics and Social Sciences
       institution: WU Vienna
       year: 2014
+email: ""
 superuser: true
 highlight_name: true
-title: Franziska Disslbacher
-email: ""
 ---
-THIS PAGE IS WORK IN PROGRESS; CURRENTLY BEING TESTED! IT MAY CONTAIN INFORMATION THAT IS INCOMPLETE - OR - NOT CORRECT! THE FINAL PAGE WILL BE BUBLISHED WITHIN A COUPLE OF HOURS! TAHNK YOU  Thank you for visiting my homepage! I am a PhD Candidate in Econmics at Vienna University of Economics and Business within an expected degree date of 03/2022. I work as an economist at the Vienna Chamber of Labour. I study the extent, causes and consequences of inqualities. I work on the measurement and distribution of income and wealth, with a special emphasis on inter/intragenerational aspects and spatial inequalitites. Also, I wanto to find out how social, political and economic institutions and mechanisms link inequalitites in opportunitites to inequalities in outcomes. 
+Thank you for visiting my homepage! I am a PhD Candidate in Economics and Social Sciences at Vienna University of Economics and Business and I expect to graduate in March 2022. I work as an economist at Department of Economics and Statistics at the Vienna Chamber of Labour.  I study the extent, causes and consequences of inequalities. My research aims at fostering our understanding of (i) how social, economic and political institutions and mechanisms link inequality in opportunities to inequalitites in outcomes and (ii) how these are distributed. I also want to strengthen our toolbox for  measuring of inequality, for instance in terms of income, wealth or between regions. Thus, my research interest lies at the intersections of labor economics, public economics and economic geography. My teaching interest are econometrics, labor economics, and spatial economics. 
 
-My work has been published, for instance, in the Journal of the Royal Statistical Society Series A: Statistics in Society, Ecological Ecoomics and the Cambridge Journal of Regions, Economy and Society. I won several reserach grants for my PhD research and was awarded international and national research prizes!
+On this page, you find information on my publications and ongoing reserach projects, teaching and comments published in the media and media. 
 
-On this page, you find information on my past and ongoing reserach project, publications in journals, blog possts and comments published in the media!
+Click fere for my CV. Research and teaching statements are available upon request. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
