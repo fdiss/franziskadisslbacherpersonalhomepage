@@ -3,7 +3,7 @@ title: Corona-Krise als Instrument der Gleichstellung?
 author: admin
 tags: ["COVID-19", "Gleichstellung", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality"]
 linkTitle: GleichstellungCovid
-summary: This article summarises some findings from a time-use survey conducted during the first lockdown in Austria. 
+summary: Wer hat sich während des ersten Lockdowns ums Home-Schooling gekümmert? Wer hat gekocht? Wer hat die Einkäufe erledigt? [A&W Blog, 2020]
 date: '2020-06-20'
 type: book
 weight: 3
