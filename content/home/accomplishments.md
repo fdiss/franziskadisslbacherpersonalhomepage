@@ -28,7 +28,7 @@ item:
   date_start: "2020-12-31"
   description: Awarded for my PhD paper on intergenerational income mobility
   organization: Austrian Economic Association
-  # organization_url: https://www.coursera.org
+  organization_url: https://en.noeg.ac.at/home
   title: "PhD Fellowship of the Austrian Economic Association (NOEG)"
   # url: ""
 # - certificate_url: ""
