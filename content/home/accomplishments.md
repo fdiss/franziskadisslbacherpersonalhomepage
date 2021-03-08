@@ -31,13 +31,13 @@ item:
   organization_url: https://en.noeg.ac.at/home
   title: "PhD Fellowship of the Austrian Economic Association (NOEG)"
   # url: ""
-# - certificate_url: ""
+- certificate_url: http://iariw.org/conferences/ruggles-prize/
 #  date_end: ""
-#  date_start: "2018-08-25"
-#  description: |2- The Nancy and Richard Ruggles Memorial provides for a Prize for a researcher or researchers aged 35 or under. The aim of the Prize is to promote the development of young researchers by recognizing their outstanding scholarship. I was awarded this prize for my paper on measurement error in survey income data. 
-#  organization: "International Association for Research on Income and Wealth"
-#  organization_url: http://iariw.org/
-#  title: "Nancy and Richard Ruggles Memorial Award"
+  date_start: "2018-08-25"
+  description: |2- The Nancy and Richard Ruggles Memorial provides for a Prize for a researcher or researchers aged 35 or under. The aim of the Prize is to promote the development of young researchers by recognizing their outstanding scholarship. I was awarded this prize for my paper on measurement error in survey income data. 
+  organization: International Association for Research on Income and Wealth
+  organization_url: http://iariw.org/
+  title: "Nancy and Richard Ruggles Memorial Award"
 #  url: http://iariw.org/conferences/ruggles-prize/
 # - certificate_url: ""
 #  date_end: ""
