@@ -28,6 +28,11 @@ main:
     url: 'post/comments'
     #url: '#posts'
     weight: 20
+  - name: Policy Papers
+    parent: others
+    url: 'post/policy'
+    #url: '#posts'
+    weight: 30
   - name: Review Articles
     parent: others
     url: 'post/review'
@@ -37,7 +42,7 @@ main:
     parent: others
     url: 'post/others'
     #url: '#posts'
-    weight: 40
+    weight: 50
   - name: Teaching
     url: '#teaching'
     weight: 50
