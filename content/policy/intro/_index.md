@@ -1,9 +1,16 @@
 
+
+title: Example Page 1
+date: 2019-05-05
+type: book
+
+
+---
   # Page title
 title: An Example Course
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: Course
+linktitle: Test
 
 # Page summary for search engines.
 summary: Blah, blah, blah...
@@ -17,3 +24,4 @@ type: book
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
   
+---
