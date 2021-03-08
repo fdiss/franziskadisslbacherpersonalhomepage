@@ -39,12 +39,12 @@ item:
   organization_url: http://iariw.org/
   title: "Nancy and Richard Ruggles Memorial Award"
   #url: http://iariw.org/conferences/ruggles-prize/
- - certificate_url: ""
+ # - certificate_url: ""
  # date_end: ""
-  date_start: "2015-06-15"
-  description: Awarded for my bachelor thesis on measurement error in surevy income data
-  organization: Vienna University of Economic and Business
-  organization_url: https://www.wu.ac.at
-  title: "TALENTA Award (WU Best Paper Prize)"
+   # date_start: "2015-06-15"
+   # description: Awarded for my bachelor thesis on measurement error in surevy income data
+ #  organization: Vienna University of Economic and Business
+ #  organization_url: https://www.wu.ac.at
+ #  title: "TALENTA Award (WU Best Paper Prize)"
 #  url: ""
 ---
