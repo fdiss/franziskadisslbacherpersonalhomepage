@@ -14,7 +14,7 @@ links:
 {{< toc hide_on="xl" >}}
 
 
-[This article has been published at A&W Blog](https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit)
+[This article has been published at A&W Blog](https://awblog.at/soziale-mobilitaet-in-oesterreich)
 
 ---
 
