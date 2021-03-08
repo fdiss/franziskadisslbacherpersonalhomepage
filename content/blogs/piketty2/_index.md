@@ -6,6 +6,7 @@ linkTitle: Verteilungsgerechtigkeit
 summary: This article discusses Piketty's vision of a *Participatory Socialism*
 date: '2020-02-215'
 type: book
+weight: 1
 links:
   - name: "Read the article at Blog Arbeit und Wirtschaft"
     url: https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/
