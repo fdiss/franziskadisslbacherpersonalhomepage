@@ -4,7 +4,7 @@ author: admin
 tags: ["Vermögensverteilung", "Piketty", "Ungleichheit", "Vermögenssteuer", "Wealth Inequality", "Wealth Distribution", "Taxation"]
 linkTitle: Verteilungsgerechtigkeit
 summary: Short summary of the article
-date: '2021-01-24'
+date: '2020-02-215'
 type: book
 links:
   - name: "Read the article at Blog Arbeit und Wirtschaft"
