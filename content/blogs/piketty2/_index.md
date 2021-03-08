@@ -3,7 +3,7 @@ title: Piketty 2.0 - Ideen für mehr Verteilungsgerechtigkeit
 author: admin
 tags: ["Vermögensverteilung", "Piketty", "Ungleichheit", "Vermögenssteuer", "Wealth Inequality", "Wealth Distribution", "Taxation"]
 linkTitle: Verteilungsgerechtigkeit
-summary: Short summary of the article
+summary: This article discusses Piketty's vision of a *Participatory Socialism*
 date: '2020-02-215'
 type: book
 links:
