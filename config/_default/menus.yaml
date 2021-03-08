@@ -20,7 +20,7 @@ main:
     weight: 40
   - name: Blogs
     parent: others
-    url: 'post/blogs'
+    url: 'blogs'
     #url: '#posts'
     weight: 10
   - name: Comments in the Media
