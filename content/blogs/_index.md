@@ -7,5 +7,5 @@ header:
   image: ""
 ---
 
-I regularly disseminate and discuss my research at blogs. 
-On this page, you find some of the most recent posts. 
+
+Here you can find my most recent contributions to blogs and comments published in newspapers. 
