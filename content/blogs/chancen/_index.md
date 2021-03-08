@@ -1,15 +1,13 @@
 ---
-title: Piketty 2.0 - Ideen für mehr Verteilungsgerechtigkeit
+title: Soziale Mobilität
 author: admin
-tags: ["Vermögensverteilung", "Piketty", "Ungleichheit", "Vermögenssteuer", "Wealth Inequality", "Wealth Distribution", "Taxation"]
-linkTitle: Verteilungsgerechtigkeit
-summary: This article discusses Piketty's vision of a *Participatory Socialism*
-date: '2020-02-215'
+linkTitle: Chancengleichheit
+date: '2020-08-19'
 type: book
 weight: 1
 links:
   - name: "Read the article at Blog Arbeit und Wirtschaft"
-    url: https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/
+    url: https://awblog.at/soziale-mobilitaet-in-oesterreich/
 ---
 
 
