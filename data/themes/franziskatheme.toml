@@ -25,5 +25,5 @@ dark_background = "#f0e5d8"
 dark_home_section_odd = "#f0e5d8"
 dark_home_section_even = "#f0e5d8"
 
-link = "#f0e5d8"
-link_hover = "#f0e5d8"
+link = "#000000"
+link_hover = "#000000"
