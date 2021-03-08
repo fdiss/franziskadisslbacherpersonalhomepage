@@ -5,6 +5,7 @@ summary: This blog discusses what we can learn from Thomas Piketty's Idea of Par
 date: '2020-02-13'
 type: book
 ---
+Test
 
 {{< figure src="featured.jpg" >}}
 
