@@ -25,7 +25,7 @@ main:
     weight: 10
   - name: Comments in the Media
     parent: others
-    url: 'post/comments'
+    url: 'comments'
     #url: '#posts'
     weight: 20
   - name: Policy Papers
