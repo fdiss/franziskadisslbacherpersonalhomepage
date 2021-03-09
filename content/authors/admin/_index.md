@@ -1,7 +1,7 @@
 ---
 title: Franziska Disslbacher
 role: PhD Candidate in Economics and Social Sciences
-bio: "I study the extent, causes and consequences of inequalities. "
+bio: I study the extent, causes and consequences of inequalities
 interests:
   - Labour Econoimcs, Public Economics, Economic Geography, Demography
   - Income and Wealth Distribution
@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://github.com/fidssl
 organizations:
-  - name: Vienna University of Econoimcs and Business
+  - name: Vienna University of Economics and Business
     url: https://wu.ac.at/
 education:
   courses:
