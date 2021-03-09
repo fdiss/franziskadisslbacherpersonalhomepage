@@ -11,7 +11,6 @@ links:
     url: https://awblog.at/soziale-mobilitaet-in-oesterreich/
 ---
 
-{{ .Title | markdownify }}
 {{< toc hide_on="xl" >}}
 
 
