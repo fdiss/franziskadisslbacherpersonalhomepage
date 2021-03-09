@@ -1,7 +1,6 @@
 ---
-title: Blogs
+title: Comments
 type: page
-author: admin
 
 header:
   caption: ""
