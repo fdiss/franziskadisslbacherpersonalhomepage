@@ -1,5 +1,5 @@
 ---
-title: Soziale Mobilität in Österreich - Illusion Chancengleichheit?
+title: **Soziale Mobilität in Österreich - Illusion Chancengleichheit?**
 author: admin
 linkTitle: Chancen
 summary: Die soziale Mobilität ist in Österreich gering. Warum ist das so? Und warum ist das ein Problem? [A&WBlog, 2020]
@@ -11,7 +11,7 @@ links:
     url: https://awblog.at/soziale-mobilitaet-in-oesterreich/
 ---
 
-
+{{ .Title | markdownify }}
 {{< toc hide_on="xl" >}}
 
 
