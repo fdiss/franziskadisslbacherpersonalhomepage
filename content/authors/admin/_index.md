@@ -1,7 +1,7 @@
 ---
 title: Franziska Disslbacher
 role: PhD Candidate in Economics and Social Sciences
-bio: I study the extent, causes and consequences of inequalities
+bio: ""
 interests:
   - Labour Econoimcs, Public Economics, Economic Geography, Demography
   - Income and Wealth Distribution
