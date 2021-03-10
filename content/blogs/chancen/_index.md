@@ -2,7 +2,7 @@
 title: Soziale Mobilität in Österreich - Illusion Chancengleichheit?
 author: admin
 linkTitle: Soziale Mobilität
-summary: Die soziale Mobilität ist in Österreich gering. Einkommen, Beruf und Bildung werden maßgeblich vom sozialen Status der Eltern bestimmt. Erbschaften sind dabei oft nur die sichtbare Spitze eines Eisbergs. Die politische Antwort auf die fehlende Aufwärtsmobilität lautet häufig
+summary: Die soziale Mobilität ist in Österreich gering. Einkommen, Beruf und Bildung werden maßgeblich vom sozialen Status der Eltern bestimmt. Erbschaften sind dabei oft nur die sichtbare Spitze eines Eisbergs. Die politische Antwort auf die fehlende Aufwärtsmobilität lautet häufig: Mehr Chancengleichheit! Doch dieser Appell lenkt oft von anderen Ungleichheiten ab. Wichtige Forderungen und Maßnahmen, insbesondere die gesicherte Existenz aller, treten so in den Hintergrund. Aufgrund anhaltender Ausgrenzungen mancher Gruppen bleibt die gezielte Förderung von sozialer Mobilität dennoch sinnvoll.
 date: '2020-08-19'
 type: book
 weight: 1
@@ -21,6 +21,8 @@ links:
 Die soziale Mobilität ist in Österreich gering. Einkommen, Beruf und Bildung werden maßgeblich vom sozialen Status der Eltern bestimmt. Erbschaften sind dabei oft nur die sichtbare Spitze eines Eisbergs. Die politische Antwort auf die fehlende Aufwärtsmobilität lautet häufig: Mehr Chancengleichheit! Doch dieser Appell lenkt oft von anderen Ungleichheiten ab. Wichtige Forderungen und Maßnahmen, insbesondere die gesicherte Existenz aller, treten so in den Hintergrund. Aufgrund anhaltender Ausgrenzungen mancher Gruppen bleibt die gezielte Förderung von sozialer Mobilität dennoch sinnvoll.
 
 ## Fünf Generationen zum Durchschnittseinkommen
+
+Über soziale Mobilität bei Einkommen wissen wir aufgrund der schlechten Datenlage weniger, als wir gerne wüssten. Doch eine international vergleichende Studie der OECD aus dem Jahr 2018 hat Österreich diesbezüglich ein schlechtes Zeugnis ausgestellt: Hierzulande dauert es durchschnittlich 5 Generationen, bis ein Kind, dessen Familie zu den untersten 10 % der Einkommensverteilung zählt, das Durchschnittseinkommen erreicht. Das ist also ein hypothetisches Szenario, denn fünf Generationen überlebt niemand. Es verweist aber auf das beträchtliche Ausmaß der Vererbung von Vor- und Nachteilen in Österreich. Zum Vergleich: In Dänemark dauert so ein Aufstieg im Schnitt zwei, in Norwegen, Schweden und Finnland drei Generationen.
 
 
 {{< figure src="featured.jpg" >}}
