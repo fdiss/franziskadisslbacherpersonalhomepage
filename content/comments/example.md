@@ -1,7 +1,9 @@
 ---
-title: Example Page 1
+title: Soziale Mobilität in Österreich - Illusion Chancengleichheit?
 date: 2019-05-05
+summary: Die soziale Mobilität ist in Österreich gering. Warum ist das so? Und warum ist das ein Problem? [A&WBlog, 2020]
 type: book
+
 ---
 
 Ungleichheiten sind gemacht
