@@ -3,10 +3,10 @@ title: Corona-Krise als Instrument der Gleichstellung?
 author: admin
 tags: ["COVID-19", "Gleichstellung", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality"]
 linkTitle: GleichstellungCovid
-summary: Wer hat sich während des ersten Lockdowns ums Home-Schooling gekümmert? Wer hat gekocht? Wer hat die Einkäufe erledigt? [A&W Blog, 2020]
+summary: "Mitte März wurde von der Bundesregierung der (este) Lockdown verhängt, um die Ausbreitung des COVID-19-Virus einzudämmen. Diese Ausgangsbeschränkungen haben unseren Lebens- und Arbeitsalltag drastisch verändert. Unsere Studie zeigt, wie sich diese Veränderungen auf die Zeitverwendung der Menschen in Österreich ausgewirkt haben. Im Zentrum steht die Frage, ob sich der Alltag von Frauen und Männer in Richtung Gleichstellung verändert hat. [A&W Blog, 2020]"
 date: '2020-06-20'
 type: book
-weight: 3
+weight: 4
 links:
     name: "Read the article at Blog Arbeit und Wirtschaft"
     url: https://awblog.at/corona-krise-als-instrument-der-gleichstellung/
@@ -16,7 +16,7 @@ links:
 {{< toc hide_on="xl" >}}
 
 
-[This article has been published at A&W Blog](https://awblog.at/corona-krise-als-instrument-der-gleichstellung)
+[Dieser Artikel ist am Blog A&W erschienen](https://awblog.at/corona-krise-als-instrument-der-gleichstellung)
 
 ---
 
@@ -64,4 +64,4 @@ Zusammenfassend gibt es eine ernüchternde, aber vielleicht wenig überraschende
 
 Die Ergebnisse der Studie deuten zudem darauf hin, dass sich die Aufteilung der unbezahlten Arbeit nicht sonderlich verändert hat und Frauen auch in Zukunft den Großteil der unbezahlten Arbeit erbringen werden. Im Umkehrschluss kann dies jedoch als Motivation genutzt werden: Einmal mehr wird sichtbar, dass Gleichstellung noch Zukunftsmusik ist. Warten wir nicht bis zur nächsten Krise, um wieder über Geschlechtergerechtigkeit zu sprechen. Beginnen wir jetzt eine Diskussion von Maßnahmen, die der tatsächlichen Gleichstellung von Frauen und Männer dienen können.  Detailliertere Ergebnisse unserer Studie, die wir nach und nach auf unserem Blog zu den geschlechtsspezifischen Auswirkungen von Corona veröffentlichen werden, können dazu weitere Einsichten bringen.
 
-Dieser Blog-Artikel wurde von Judith Derndorfer, Franziska Disslbacher, Vanessa Lechinger, Katharina Mader und Eva Six verfasst.
+Dieser Blog-Artikel habe ich gemeinsam mit Judith Derndorfer, Vanessa Lechinger, Katharina Mader und Eva Six verfasst.
