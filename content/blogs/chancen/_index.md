@@ -1,7 +1,8 @@
 ---
 title: Soziale Mobilität in Österreich - Illusion Chancengleichheit?
 author: admin
-linkTitle: Chancen
+summary: warum
+linkTitle: Soziale Mobilität
 date: '2020-08-19'
 type: book
 weight: 1
