@@ -2,11 +2,11 @@
 title: Wir sollten unbezahlte Arbeit sichtbar machen
 author: admin
 tags: ["COVID-19", "Gleichstellung", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality"]
-linkTitle: BewertungUnbezahltearbeit
-summary: Würden Menschen für unbezahlte Arbeit bezahlt werden, wie hoch wäre ihre Einkommen? [diePresse, 2020]
+linkTitle: Unbezahlte Arbeit während des Lockdowns
+summary: "Würden Menschen für unbezahlte Arbeit bezahlt werden, wie hoch wäre ihre Einkommen? [Der ökonomische Blick / diePresse, 2020]"
 date: '2020-09-28'
 type: book
-weight: 8
+weight: 6
 links:
     name: "Read the article at Blog Arbeit und Wirtschaft"
     url: https://www.diepresse.com/5873746/wir-sollten-unbezahlte-arbeit-sichtbar-machen
@@ -46,4 +46,4 @@ Dieser Artikel basiert auf der Zeitverwendungserhebung des Projektes 'Mehrfachbe
 
 
 
-Dieser Blog-Artikel wurde gemeinsam mit Judith Derndorfer, Vanessa Lechinger, Katharina Mader und Eva Six verfasst.
+Diesen Blog habe ich gemeinsam mit Judith Derndorfer, Vanessa Lechinger, Katharina Mader und Eva Six verfasst, er basiert auf unserem Projekt "Mehrfachbelastung unter COVID-19: Home-Office und Hausarbeit". Die Homepage des Projetks, mit weiteren Blog-Artikeln und Ergebnissen, befindet sich [hier](https://www.wu.ac.at/vw3/forschung/laufende-projekte/genderspezifscheeffektevoncovid-19).
