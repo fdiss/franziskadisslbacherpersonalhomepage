@@ -6,7 +6,7 @@ linkTitle: Öffentliches Vermögen
 summary: Öffentliches Vermögen ermöglicht vielen Menschen den Zugang zu wichtigen Gütern. Doch es braucht ein Mehr an öffentlichem Vermögen, gleichzeitig muss der Konzentration der Privatvermögen bei den Überreichen ein Riegel vorgeschoben werden. [Magazin Arbeit und Wirtschaft, 2020]
 date: '2020-02-12'
 type: book
-weight: 5
+weight: 7
 links:
     name: "Read the article at LSE Blog"
     url: https://www.arbeit-wirtschaft.at/von-krankenhaeusern-waeldern-und-der-sozialen-gerechtigkeit/
