@@ -3,10 +3,10 @@ title: Wealth Inequality in Europe
 author: admin
 tags: ["Wealth Inequality", "Inequality", "HFCS", "Vermögensverteilung", "Ungleichheit", "Verteilung", "Distribution"]
 linkTitle: wealthhfcs
-summary: What the latest Household Finance and Consumption Survey reveals about the distribution of wealth in Europe [LSE Blog, 2020]
+summary: "The economic crisis triggered by the pandemic and the resulting changes in our everyday lives affect people in differential ways. The structural differences in the extent to which people are affected by the crisis, as well as the ways in which we can deal with its consequences, are all about the many dimensions of distributional issues. Ensuring that inequalities, poverty and wealth do not deteriorate as a result of the pandemic must now be a top priority. When it comes to questions of wealth distribution, we can learn a lot from the research that the HFCS (Household Finance and Consumption Survey)  has made possible thus far. [LSE Blog, 2020]"
 date: '2020-06-15'
 type: book
-weight: 10
+weight: 3
 links:
     name: "Read the article at LSE Blog"
     url: https://blogs.lse.ac.uk/europpblog/2020/06/15/what-the-latest-household-finance-and-consumption-survey-tells-us-about-wealth-inequality-in-europe
@@ -17,7 +17,7 @@ links:
 
 [This article has been published at a Blog of the London School of Economics](https://blogs.lse.ac.uk/europpblog/2020/06/15/what-the-latest-household-finance-and-consumption-survey-tells-us-about-wealth-inequality-in-europe)
 
-The article was originally published in [German at makronom.de](https://makronom.de/hfcs-licht-im-dunkeln-der-vermoegensverteilung-36058)
+A German version is puslished at Makronom-Blog, and can be read (but is hidden behind a paywall)[here](https://makronom.de/hfcs-licht-im-dunkeln-der-vermoegensverteilung-36058)
 
 ---
 
