@@ -6,7 +6,7 @@ linkTitle: Verteilungsgerechtigkeit
 summary: "Prominente VerteilungsforscherInnen, allen voran Thomas Piketty, haben in den letzten Wochen hitzige Debatten angeregt. Dieses Mal jedoch nicht primär aufgrund der Veröffentlichung neuer Daten oder Zahlen – zur Diskussion stehen Maßnahmen zur Reduktion von Ungleichheiten. Diese Vorschläge werden vom Ruf nach einer möglichst breiten demokratischen Debatte über Gerechtigkeitsvorstellungen begleitet. [A&W Blog, 2020]"
 date: '2020-02-215'
 type: book
-weight: 1
+weight: 2
 links:
   - name: "Read the article at Blog Arbeit und Wirtschaft"
     url: https://awblog.at/piketty-2-0-ideen-verteilungsgerechtigkeit/
