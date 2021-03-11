@@ -17,7 +17,7 @@ links:
 
 [This article has been published at a Blog of the London School of Economics](https://blogs.lse.ac.uk/europpblog/2020/06/15/what-the-latest-household-finance-and-consumption-survey-tells-us-about-wealth-inequality-in-europe)
 
-A German version is puslished at Makronom-Blog, and can be read (but is hidden behind a paywall)[here](https://makronom.de/hfcs-licht-im-dunkeln-der-vermoegensverteilung-36058)
+A German version is puslished at Makronom-Blog, and can be read [here](https://makronom.de/hfcs-licht-im-dunkeln-der-vermoegensverteilung-36058) (but is hidden behind a paywall)
 
 ---
 
