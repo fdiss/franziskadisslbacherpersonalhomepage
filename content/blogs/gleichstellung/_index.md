@@ -2,8 +2,8 @@
 title: Corona-Krise als Instrument der Gleichstellung?
 author: admin
 tags: ["COVID-19", "Gleichstellung", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality"]
-linkTitle: GleichstellungCovid
-summary: "Mitte März wurde von der Bundesregierung der (este) Lockdown verhängt, um die Ausbreitung des COVID-19-Virus einzudämmen. Diese Ausgangsbeschränkungen haben unseren Lebens- und Arbeitsalltag drastisch verändert. Unsere Studie zeigt, wie sich diese Veränderungen auf die Zeitverwendung der Menschen in Österreich ausgewirkt haben. Im Zentrum steht die Frage, ob sich der Alltag von Frauen und Männer in Richtung Gleichstellung verändert hat. [A&W Blog, 2020]"
+linkTitle: COVID-19 & Unbezahlte Arbeit
+summary: "Mitte März wurde von der Bundesregierung der (erste) Lockdown verhängt. Diese Ausgangsbeschränkungen haben unseren Lebens- und Arbeitsalltag drastisch verändert. Wir haben gefragt, wie sich diese Veränderungen auf die Zeitverwendung der Menschen in Österreich ausgewirkt haben. Im Zentrum steht die Frage, ob und inwiefern sich der Alltag von Frauen und Männer in Richtung Gleichstellung verändert hat. [A&W Blog, 2020]"
 date: '2020-06-20'
 type: book
 weight: 4
