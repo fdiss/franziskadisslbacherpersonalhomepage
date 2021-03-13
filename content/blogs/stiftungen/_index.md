@@ -32,6 +32,8 @@ Außerdem wollte man Anreize für die Veranlagung ausländischen Vermögens in �
 
 Anfangs spielten Privatstiftungen in den finanziellen Sektorkonten noch eine marginale Rolle. Nach der Gründungsphase hat sich, wie die Grafik zeigt, das von Privatstiftungen gehaltene Vermögen in den letzten 10 Jahren verdoppelt. 2004 waren 26 Mrd. Euro in Stiftungen gebunkert, bis 2014 ist der Betrag auf 55 Mrd. Euro angewachsen. Das entspricht 2,2 % der in Österreich verwalteten finanziellen Ansprüche.
 
+{{< figure src="featured.jpg" >}}
+
 Privatstiftungen sind mitnichten reines Finanzvermögen – das berühmte scheue Reh – sondern durchaus reines Sachvermögen, wie die Daten der Nationalbank zeigen: etwa ein Drittel des Stiftungsvermögens ist in Immobilien investiert, der andere Teil ist überwiegend in Unternehmensbeteiligungen veranlagt. Bezüglich der von Privatstiftungen gehaltenen Unternehmensbeteiligungen zeigt eine Auswertung der AK Oberösterreich, dass 47 der 250 umsatzstärksten österreichischen Industriebetriebe zumindest teilweise im Eigentum von Privatstiftungen stehen.
 
 Dem Zuwachs des Stiftungsvermögens konnten weder die Finanzkrise, die einen leichten Rückgang der Vermögensbestände mit sich brachte, noch der vom Stiftungsverband regelmäßig beklagte, kontinuierliche Abbau von Steuerprivilegien Schranken setzen. Bemerkenswert ist, dass die Anzahl der Stiftungen laut Stiftungsverband seit 2012 sinkt und heute unter dem Niveau von 2009 liegt. Folglich konzentrierte sich 2014 ein in Summe größeres Vermögen auf weniger Stiftungen als noch 2009.
