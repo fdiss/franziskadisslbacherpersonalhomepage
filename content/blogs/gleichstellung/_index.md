@@ -6,7 +6,8 @@ linkTitle: COVID-19 & Unbezahlte Arbeit
 summary: "Mitte März wurde von der Bundesregierung der (erste) Lockdown verhängt. Diese Ausgangsbeschränkungen haben unseren Lebens- und Arbeitsalltag drastisch verändert. Wir haben gefragt, wie sich diese Veränderungen auf die Zeitverwendung der Menschen in Österreich ausgewirkt haben. Im Zentrum steht die Frage, ob und inwiefern sich der Alltag von Frauen und Männer in Richtung Gleichstellung verändert hat. [A&W Blog, 2020]"
 date: '2020-06-20'
 type: book
-weight: 4
+weight: 89
+tags: ["Zeitverwendungserhebung", "Time Use", "Gleichstellung", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality", "Feminist Economics", "COVID-19"]
 links:
     name: "Read the article at Blog Arbeit und Wirtschaft"
     url: https://awblog.at/corona-krise-als-instrument-der-gleichstellung/
