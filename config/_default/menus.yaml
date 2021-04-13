@@ -43,8 +43,8 @@ main:
     url: 'post/others'
     #url: '#posts'
     weight: 50
-  - name: Teaching
-    url: '#teaching'
+  - name: In the Media
+    url: 'media'
     weight: 50
   - name: Events
     url: '#events'
