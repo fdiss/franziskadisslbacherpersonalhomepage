@@ -1,10 +1,4 @@
 ---
-title: Review Articles
-type: page
-
-header:
-  caption: ""
-  image: ""
+date: 2017-12-01
+title: My first blog post
 ---
-
-In this section you find scholary review articles. For instance, I regularly review books for the [Wirtschaft und Gesellschaft](https://wug.akwien.at/Index.htm)
