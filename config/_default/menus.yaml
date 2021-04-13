@@ -35,7 +35,7 @@ main:
     weight: 30
   - name: Review Articles
     parent: others
-    url: 'post/review'
+    url: 'review'
     #url: '#posts'
     weight: 30
   - name: Others
