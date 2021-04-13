@@ -5,11 +5,11 @@ linkTitle: Vermögensverteilung in Europa
 summary: "Vermögen sind in ganz Europa sehr ungleich verteilt und das Vermögen der Reichsten wird fast überall unterschätzt. Österreich gehört in gleich zwei Kategorien zu den Extremfällen. [DiePresse, 2021]"
 date: '2021-06-04'
 type: book
-weight: 84
+weight: 83
 tags: ["Wealth Inequality", "Vermögensverteilung", "HFSC", "Pareto Distribution"]
 links:
-  - name: "Der Ökonomische Blick / DiePresse.com"
-    url: https://www.diepresse.com/5961673/die-vermogensungleichheit-in-europa-wird-massiv-unterschatzt
+  - name: "DiePresse.com"
+    url: https://www.diepresse.com/5961673/die-vermogensungleichheit-in-europa-wird-massiv-unterschatzt/
 ---
 
 {{< toc hide_on="xl" >}}
