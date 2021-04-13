@@ -1,7 +1,7 @@
 ---
 title: Die Vermögensungleichheit in Europa wird massiv unterschätzt
 author: admin
-linkTitle: Vermögensverteilung in Europa
+linkTitle: Vermögensverteilung 
 summary: "Vermögen sind in ganz Europa sehr ungleich verteilt und das Vermögen der Reichsten wird fast überall unterschätzt. Österreich gehört in gleich zwei Kategorien zu den Extremfällen. [DiePresse, 2021]"
 date: '2021-06-04'
 type: book
@@ -9,7 +9,7 @@ weight: 83
 tags: ["Wealth Inequality", "Vermögensverteilung", "HFSC", "Pareto Distribution"]
 links:
   - name: "DiePresse.com"
-    url: https://www.diepresse.com/5961673/die-vermogensungleichheit-in-europa-wird-massiv-unterschatzt/
+    url: https://www.diepresse.com/5961673/die-vermogensungleichheit-in-europa-wird-massiv-unterschatzt
 ---
 
 {{< toc hide_on="xl" >}}
