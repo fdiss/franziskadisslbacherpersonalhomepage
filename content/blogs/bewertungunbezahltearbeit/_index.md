@@ -1,12 +1,12 @@
 ---
 title: Wir sollten unbezahlte Arbeit sichtbar machen
 author: admin
-tags: ["COVID-19", "Gleichstellung", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality"]
+tags: ["Zeitverwendungserhebung", "Time Use", "Gleichstellung", "Unbezahlte Arbeit", "Unpaid Work", "Gender Equality", "Feminist Economics", "COVID-19"]
 linkTitle: Unbezahlte Arbeit während des Lockdowns
 summary: "Würden Menschen für unbezahlte Arbeit bezahlt werden, wie hoch wäre ihre Einkommen? [Der ökonomische Blick / diePresse, 2020]"
 date: '2020-09-28'
 type: book
-weight: 6
+weight: 90
 links:
     name: "Read the article at Blog Arbeit und Wirtschaft"
     url: https://www.diepresse.com/5873746/wir-sollten-unbezahlte-arbeit-sichtbar-machen
