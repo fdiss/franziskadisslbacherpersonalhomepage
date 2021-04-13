@@ -1,5 +1,5 @@
 ---
-title: Blogs
+title: Public Writing
 type: page
 
 header:
