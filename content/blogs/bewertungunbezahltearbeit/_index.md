@@ -6,7 +6,7 @@ linkTitle: Unbezahlte Arbeit während des Lockdowns
 summary: "Würden Menschen für unbezahlte Arbeit bezahlt werden, wie hoch wäre ihre Einkommen? [Der ökonomische Blick / diePresse, 2020]"
 date: '2020-09-28'
 type: book
-weight: 90
+weight: 91
 links:
     name: "Read the article at Blog Arbeit und Wirtschaft"
     url: https://www.diepresse.com/5873746/wir-sollten-unbezahlte-arbeit-sichtbar-machen
