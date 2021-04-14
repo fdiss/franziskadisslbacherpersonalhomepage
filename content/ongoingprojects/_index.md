@@ -33,6 +33,9 @@ _Upcoming Presentations:_ Annual Meeting of the Austrian Economic Association, I
 
 In: INEQ Working Paper #21 / WU Vienna; With J. Derndorfer, V. Lechinger, E. Six and K. Mader
 
+{{< figure src="wp21fig.jpg" caption="Who cares when working from home?">}}
+
+
 **Abstract**
 A lockdown implies a shift from the public to the private sphere, and from market to non-market production, thereby increasing the volume of unpaid work.  Already before the pandemic, unpaid work was disproportionately borne by women. This paper studies the effect of working from home for pay (WFH), due to a lockdown, on the change in the division of household work and childcare within couple households. While previous studies on the effect of WFH on the reconciliation of work and family life and the division of labour within household suffered from selection bias, we are able to identify this effect building upon the shock of the first COVID-19 lockdown in Austria. The corresponding legal measures left little choice over WFH. In any case, WFH is exogenous conditional on a small set of individual and household characteristics we control for.  We employ data from a survey on the gendered aspects of the lockdown. The dataset includes detailed information on time use during the lockdown and on the quality and experience of WFH. Uniquely, this survey data also includes information on the division, and not only magnitude, of unpaid work within households. Austria is an interesting case in this respect as it is characterized by very conservative gender norms. The results reveal that the probability of men taking on a larger share of household work increases if men are WFH alone or together with their female partner. By contrast, the involvement of men in childcare increased only in case the female partner was not able to WFH. Overall, the burden of childcare, and particularly home-schooling, was disproportionately borne by women.
 
