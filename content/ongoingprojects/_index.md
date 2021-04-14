@@ -11,9 +11,13 @@ authors: ["admin"]
 ### On Top of the Top - Adjusting wealth distributions using national rich lists
 In: INEQ Working Paper #20 / WU Vienna; With M. Ertl, E. List, P. Mokre and M. Schnetzer [Download](https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf)
 
+{{< figure src="wp20fig.jpg" caption="(Generalized) Pareto Tail" >}}
+
 **Abstract**
 
 Poor coverage of the top in wealth surveys conceals the extent of wealth inequality. The literature mitigates this shortcoming by enriching survey data with rich lists and estimating the top tail with a Pareto distribution. However, recent studies rely on ad-hoc assumptions for some of the required parameters. We suggest a unified regression ap- proach to estimate all parameters of a Pareto distribution jointly and extend our analysis with a more flexible three-parameter Generalized Pareto estimation. We introduce a new database of national rich lists (ERLDB) as an alternative to commonly used global rich lists to combine with survey data from the Household Finance and Consumption Survey (HFCS 2017). Our findings for 14 European countries show that wealth is more concen- trated than surveys suggest, with almost doubling Top 1% shares in the most extreme cases. In contrast, countries with successful oversampling strategies tend to experience only minor changes in inequality metrics.
+
+
 
 
 _Keywords_: Wealth distribution, (Generalized) Pareto distribution, Richlists, HFCS, Survey methodology, Missing wealth
