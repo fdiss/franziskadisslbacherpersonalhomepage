@@ -3,6 +3,7 @@
 title: Work in Progress
 reading_time: false
 authors: ["admin"]
+
 ---
 
 ## Published Working Papers
@@ -19,70 +20,42 @@ _Keywords_: Wealth distribution, (Generalized) Pareto distribution, Richlists, H
 
 _JEL Classification_:  C46, D31
 
+{{% staticref "uploads/WP20.pdf" "newtab" %}} Download recent version{{% /staticref %}}
 
-### The victims of neoliberal globalisation and the rise of the populist vote: A comparative analysis of three   recent electoral decisions. 
+_Upcoming Presentations:_ Annual Meeting of the Austrian Economic Association, IARIW 2021
 
-In: _Cambridge Journal of Regions, Economy and Soceity_, Vol. 11(1), p73-94. With J. Essletzbichler and M. Moser. [Link](https://academic.oup.com/cjres/article/11/1/73/4821297)
+
+### Home, sweet home? The impact of working from home on the division of unpaid work during COVID-19 lockdown
+
+In: INEQ Working Paper #21 / WU Vienna; With J. Derndorfer, V. Lechinger, E. Six and K. Mader
+
+**Abstract**
+A lockdown implies a shift from the public to the private sphere, and from market to non-market production, thereby increasing the volume of unpaid work.  Already before the pandemic, unpaid work was disproportionately borne by women. This paper studies the effect of working from home for pay (WFH), due to a lockdown, on the change in the division of household work and childcare within couple households. While previous studies on the effect of WFH on the reconciliation of work and family life and the division of labour within household suffered from selection bias, we are able to identify this effect building upon the shock of the first COVID-19 lockdown in Austria. The corresponding legal measures left little choice over WFH. In any case, WFH is exogenous conditional on a small set of individual and household characteristics we control for.  We employ data from a survey on the gendered aspects of the lockdown. The dataset includes detailed information on time use during the lockdown and on the quality and experience of WFH. Uniquely, this survey data also includes information on the division, and not only magnitude, of unpaid work within households. Austria is an interesting case in this respect as it is characterized by very conservative gender norms. The results reveal that the probability of men taking on a larger share of household work increases if men are WFH alone or together with their female partner. By contrast, the involvement of men in childcare increased only in case the female partner was not able to WFH. Overall, the burden of childcare, and particularly home-schooling, was disproportionately borne by women.
+
+_Keywords_:  Working From Home, Unpaid Work, COVID-19, Gender Data Gap, Time Use
+
+
+## Work in Progress
+
+### Recovering Regional Income Distributions using Generalized Pareto Estimation: An application to Income Inequality in the United States; with M. Moser
+
+**Abstract** 
+
+This paper uses recently introduced Generalized Pareto Estimation methods to recover full income distributions for the United States American Community Survey data on the state, county, and tract levels. Our approach adds to the literature on regional income inequality by extrapolating quantiles from the recorded grouped income data while at the same time correcting for potential under-coverage of rich households. Using this new data set on regional income inequality we provide examples of two-stage nested and dynamic Theil decompositions to illustrate how these data can improve our understanding of local inequality dynamics in the U.S. We find that 80% of national level income inequality are due to income inequality within tracts and over time, within-tract income inequality drives national level inequality. However, this is due to specific tracts located in population-rich, urbanized areas and regions closely connected to global financialization, and digitization. A counterfactual decomposition reveals that 1.5 % of the tracts drive national level income inequality up, while an equal number of tracts pushes national level income inequality in the opposite direction. Replacing the growth/reduction in inequality in these equalizing and dis-equalizing tracts with the national average would leave us with virtually no change in aggregate income inequality over the period 2010-2018.
+
+_Draft available upon request_
+
+
+### Income inequality within and between regions in the United States: An integrated approach; with M. Moser
 
 **Abstract**
 
-Recent presidential elections in the US and Austria as well as the referendum on Brexit in the UK delivered victories or near-victories for populist right-wing candidates or agendas. In all three cases, globalisation and European integration were blamed for higher immigration and pressure on public services, deindustrialisation and job losses, and the attack on traditional values by cosmopolitan elites supported by traditional centre parties that have been unable or unwilling to control those processes. While election analysts seek to explain voting behaviour with socio-demographic characteristics of individuals, individual voting preferences also depend on the geographical context in which decisions are made. This article thus examines how long-term, regional structural economic changes, the varying impact of the Great Recession on the rise of and recovery from regional unemployment and current regional economic conditions, such as unemployment and welfare benefit losses, affect regional vote shares. In addition to those economic conditions, we examine the impact of immigration and urban size on populist vote shares. We show that regions with low, but rising immigrant shares, old industrial regions, smaller regions, those whose labour markets were exposed more and recovered less from the Great Recession, and those with high unemployment rates and benefit losses exhibited higher populist vote shares. These results are largely consistent across the three case study countries.
+This paper proposes a novel approach for the joint study of within- and between-region income inequality that is consistently applicable to nested regions at various spatial scales and is based on full income distributions instead of summary indicators of income inequality. This framework is applied to household income inequality in the Census Tracts nested in the 323 Metropolitan Statistical Areas (MSAs) of the United States in a cross-sectional setting. Starting with tabulated income data from the American Community Survey (ACS) 2014-2018, we estimate full income distribution in the form of 100 percentiles for each tract employing recently developed Generalized Pareto Distribution methods. Thereby, we account for underreporting of incomes at the top and allow for a varying degree of income inequality along the distribution. Given the full distribution of income by tract, we propose that a comparison of percentiles of the tracts nested in a MSAs provides a measure for between-region inequality, while the full set of percentiles for each tract measures within-region inequality. In addition, we are able to identify spatial variations in the segregation of affluence and poverty. To give a stylized example, in case the bottom 90 percentiles of a tract align with the corresponding MSA level percentiles, and the top 10 percentiles are above the corresponding MSA level percentiles, a tract is characterized by segregation of the affluent. By working with full income distributions, we are able to highlight region-specific characteristics of the income distribution that are masked by summary indicators such as the Gini-coefficient or the Theil-index Finally, the approach is applicable to individual as well as tabulated income data and generalizable to any hierarchically nested regions. Overall, we contribute the literatures on intra- and inter-regional income inequality and income segregation by building a bridge between them.
 
 
-### Work-sharing for a sustainable economy
-
-In: _Ecological Economics_, Vol. 121, p246-253. With K. Zwickl and S. Stagl. [Link](https://doi.org/10.1016/j.ecolecon.2015.06.009)
-
-**Abstract**
-
-Achieving low unemployment in an environment of weak growth is a major policy challenge; a more egalitarian distribution of hours worked could be the key to solving it. Whether work-sharing actually increases employment, however, has been debated controversially. In this article we present stylized facts on the distribution of hours worked and discuss the role of work-sharing for a sustainable economy. Building on recent developments in labor market theory we review the determinants of working long hours and its effect on well-being. Finally, we survey work-sharing reforms in the past. While there seems to be a consensus that work-sharing in the Great Depression in the U.S. and in the Great Recession in Europe was successful in reducing employment losses, perceptions of the work-sharing reforms implemented between the 1980s and early 2000s are more ambivalent. However, even the most critical evaluations of these reforms provide no credible evidence of negative employment effects; instead, the overall success of the policy seems to depend on the economic and institutional setting, as well as the specific details of its implementation.
-
-## Book Chapters
-
-### Frauen in der Krise? Folgen der Corona- Pandemie für die Verteilung der Sorgearbeit
-
-In: _Frauengesundheit und Corona_, Ed.(Wiener Programm für Frauengesundheit), Stadt Wien/Vienna, p161-171, 2020. With J. Derndorfer, V. Lechinger, K. Mader and E. Six [Download the book](https://www.wien.gv.at/gesundheit/beratung-vorsorge/frauen/frauengesundheit/pdf/frauengesundheit-corona.pdf)
-
-### Geschlechtsspezifische Mehrfachbelastungen während der COVID-Krise
-
-In: _COVID-Kaleidoskop_, Ed. (Beigewum), Vienna, p28-31, 2020. With J. Derndorfer, V. Lechinger, K. Mader and E. Six. [Download the book](http://www.beigewum.at/wp-content/uploads/Beigewum_CoronaKalaidoskop_Teil1_final.pdf)
 
 
-### Zur Frauen-  und Geschlechterpolitik von Schwarz-Blau II
 
-In: _Gaismair-Jahrbuch 2020_, Ed.(Michael Gaismair Gesellschaft), Studienverlag/Innsbruck, 2019. With J. Schultheiss. 
-
-
-### Zwischen Deutschland und Osteuropa: Österreichs neue Mittellage.
-
-In: _Politische Ökonomie Österreichs. Veränderungen und Kontinuitäten seit dem EU-Beitritt_, Ed.(Beigewum), Mandelbaum Verlag/Wien, 2015. With J. Becker and R. Weisenbacher
-
-
-## Invited Contributions to Non-Reviewed Journals
-
-###  Monopolisierung und Stagnation in den OECD Ländern: Von Josef Steindl, Larry Summers und der Ökonomie des unschuldigen Betrugs
-
-In: _Kurswechsel_, 2018(1), p81–98. [Download here](http://www.beigewum.at/wp-content/uploads/KuWe-1_18-Disslbacher.pdf)
-
-
-###  'Denn nur ein gleichberechtigtes Miteinander von Frauen und Männern sichert eine gedeihliche Zukunft'  - zur Frauen- und Gleichstellungspolitik von Scharz-Blau II
-
-In: _Kurswechsel_, 2018(3), 66-74. With J. Schultheiss. [Download here](http://www.beigewum.at/wp-content/uploads/KuWe-3_18-Disslbacher-Schultheiss.pdf)
-
-
-### Die Herren des Geldes - das Geld der Herren
-
-In: _Kurswechsel_, 2017(1), p2-5. With R. Brait, S. Reither and P. Sauer. [Download here](http://www.beigewum.at/wp-content/uploads/Editorial1-17.pdf)
-
-
-### Ökonomie im politischen Schlachtfeld
-
-In: _Kurswechsel_, 2016(1), p69-77. With F. Bohinc
-
-
-###  Was Ökonomischer Pluralismus kann und was er gar nicht will
-
-In: _Kurswechsel_, 2015(2), p82-84. With F. Bohinc
 
 
 
