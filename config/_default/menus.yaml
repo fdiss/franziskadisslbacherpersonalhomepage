@@ -11,7 +11,7 @@ main:
     url: 'publishedwork'
     weight: 20
   - name: Work in Progress
-    url: '#projects'
+    url: 'ongoingprojects'
     weight: 30
   - name: Other Contributions
     url: ''
