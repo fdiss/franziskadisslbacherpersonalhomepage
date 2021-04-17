@@ -26,7 +26,7 @@ _JEL Classification_:  C46, D31
 
 {{% staticref "uploads/WP20.pdf" "newtab" %}} Download recent version{{% /staticref %}}
 
-_Upcoming Presentations:_ Annual Meeting of the Austrian Economic Association, IARIW 2021
+_Upcoming Presentations:_ Annual Meeting of the Austrian Economic Association (online), IARIW 2021 (online), ECINEQ 2021 (online), IIPF (Reykjavík, Iceland; invited)
 
 
 ### Home, sweet home? The impact of working from home on the division of unpaid work during COVID-19 lockdown
