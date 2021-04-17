@@ -13,7 +13,7 @@ main:
   - name: Work in Progress
     url: 'ongoingprojects'
     weight: 30
-  - name: Other Contributions
+  - name: Public Writing
     url: ''
     #url: '#posts'
     identifier: "others"
@@ -23,26 +23,26 @@ main:
     url: 'blogs'
     #url: '#posts'
     weight: 10
-  - name: Comments in the Media
-    parent: others
-    url: 'comments'
-    #url: '#posts'
-    weight: 20
-  - name: Policy Papers
-    parent: others
-    url: 'post/policy'
-    #url: '#posts'
-    weight: 30
+#  - name: Comments in the Media
+#    parent: others
+#    url: 'comments'
+#    #url: '#posts'
+#    weight: 20
+  #- name: Policy Papers
+  #  parent: others
+  #  url: 'post/policy'
+  #  #url: '#posts'
+  #  weight: 30
   - name: Review Articles
     parent: others
     url: 'review'
     #url: '#posts'
-    weight: 30
-  - name: Others
-    parent: others
-    url: 'post/others'
-    #url: '#posts'
-    weight: 50
+    weight: 20
+ # - name: Others
+ #   parent: others
+ #   url: 'post/others'
+ #   #url: '#posts'
+ #   weight: 50
   - name: In the Media
     url: 'media'
     weight: 50
@@ -55,9 +55,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 80
-  - name: Test
-    url: 'content/policy'
-    weight: 90
+ # - name: Test
+ #   url: 'content/policy'
+ #   weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
