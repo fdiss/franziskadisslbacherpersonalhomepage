@@ -52,6 +52,11 @@ This paper uses recently introduced Generalized Pareto Estimation methods to rec
 
 _Draft available upon request_
 
+### The Geography of Intergnerational Mobiliy in Austria. Evidence from Large Register Data
+
+The pronounced spatial variation in intergenerational mobility within countries has catched attention during the last years. While Austria is a country with a comparably low degree of inequality in incomes, due to redistribution via taxes, benefits and the provision of social infrastructures, little is known about intergenerational mobility. However, while several studies stress that intergenerational persistance of education is as high as in high income inequality countrieos there is no evidence on intergenerational persistance in income and its spatial variation. In this paper, I provide evidence on absolute and relative intergenerational mobility in terms of education and income and its variation across communitites. I employ data from social insurance records, tax statistics and the register based census spanning the period 1974-2018. I expected that intergenerational mobilitiy in income is much higher than intergenerational mobiltiy in income for two reasons. First, the unique system of dual education decreases upward mobilty inducation, this is n
+
+
 
 ### Income inequality within and between regions in the United States: An integrated approach; with M. Moser
 
