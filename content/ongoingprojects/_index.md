@@ -9,7 +9,7 @@ authors: ["admin"]
 ## Published Working Papers
 
 ### On Top of the Top - Adjusting wealth distributions using national rich lists
-In: INEQ Working Paper #20 / WU Vienna; With M. Ertl, E. List, P. Mokre and M. Schnetzer [Download](https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf)
+In: INEQ Working Paper #20 / WU Vienna; With M. Ertl, E. List, P. Mokre and M. Schnetzer [Download Working Paper](https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf)
 
 {{< figure src="wp20fig.jpg" caption="(Generalized) Pareto Tail" >}}
 
@@ -19,12 +19,11 @@ Poor coverage of the top in wealth surveys conceals the extent of wealth inequal
 
 
 
-
 _Keywords_: Wealth distribution, (Generalized) Pareto distribution, Richlists, HFCS, Survey methodology, Missing wealth
 
 _JEL Classification_:  C46, D31
 
-{{% staticref "uploads/WP20.pdf" "newtab" %}} Download recent version{{% /staticref %}}
+{{% staticref "uploads/OnTopOfTheTopSlides.pdf" "newtab" %}} Download Slides {{% /staticref %}}
 
 _Upcoming Presentations:_ Annual Meeting of the Austrian Economic Association (online), IARIW 2021 (online), ECINEQ 2021 (online), IIPF (Reykjavík, Iceland; invited)
 
