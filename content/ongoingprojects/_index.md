@@ -14,3 +14,5 @@ In: INEQ Working Paper #20 / Vienna University of Economics and Business; With M
 
 
 {{< figure src="wp20fig.jpg" caption="(Generalized) Pareto Tail" >}}
+
+_Upcoming Presentations:_ Annual Meeting of the Austrian Economic Association (online), IARIW 2021 (online), ECINEQ 2021 (online), IIPF (Reykjavík, Iceland; invited)
