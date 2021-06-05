@@ -29,3 +29,8 @@ INEQ Working Paper #21 / Vienna University of Economics and Business;  With J. D
 {{< figure src="wp21fig.jpg" caption="Who _cares_ when working from home?">}}
 
 _Upcoming Presentations:_ ESPANET 2021, IAFFE 2021, IAB 
+
+## In Progress
+
+### The Geography of 
+
