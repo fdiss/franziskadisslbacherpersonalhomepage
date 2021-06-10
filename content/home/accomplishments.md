@@ -37,7 +37,7 @@ item:
   organization_url: https://en.noeg.ac.at/home
   title: "PhD Fellowship of the Austrian Economic Association"
   # url: ""
-- certificate_url: http://iariw.org/conferences/ruggles-prize/
+- certificate_url: ""
   date_end: ""
   date_start: "2018-08-25"
   description: Awarded for my paper on measurement error in survey income data
