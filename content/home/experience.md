@@ -28,18 +28,17 @@ experience:
     location: Vienna
     date_start: '2017-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        * Undergraduate class
+    description: Undergraduate level specialization course on economics of distribution and recent developments in empirical inequality research. 
+      
    
         
   - title: Spatial Economics 
-    company: University, MSc Economics
+    company: MSc Economics
     company_url: ''
     location: Vienna
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2017-02-01'
+    date_end: ''
+    description: Graudate level specialiation course on Economic Geography and Spatial Econometrics
     
   - title: Empirical Social Research 
     company: University, MSc Economics
