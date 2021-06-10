@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: On Top of the Top
 
 event: ECINEQ Conference 2021
 event_url: http://www.ecineq.org/event/ninth-ecineq-meeting/
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: I will present our *On Top of the Top: Top-Adjusted Wealth Disributions for Fourteen Eurozone Countries* at the ECINEQ 2021 Conference. 
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
