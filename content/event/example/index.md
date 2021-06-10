@@ -1,5 +1,5 @@
 ---
-title: On top of the Top: Top-Corrected Wealth Distributions for Fourteen Eurozone Countries
+title: Example Talk
 
 event: ECINEQ Conference 2021
 event_url: http://www.ecineq.org/event/ninth-ecineq-meeting/
