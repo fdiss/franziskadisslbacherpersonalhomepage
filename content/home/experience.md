@@ -25,35 +25,42 @@ experience:
   - title: Economics of Distribution
     company: Vienna University of Economics and Business
     company_url: ''
-    location: Vienna
+    location: WU Vienna
     date_start: '2017-01-01'
     date_end: ''
     description: Undergraduate level specialization course on economics of distribution and recent developments in empirical inequality research. 
       
-   
-        
+ 
   - title: Spatial Economics 
     company: MSc Economics
     company_url: ''
-    location: Vienna
+    location: WU Vienna
     date_start: '2017-02-01'
     date_end: ''
     description: Graudate level specialiation course on Economic Geography and Spatial Econometrics
     
-  - title: Empirical Social Research 
+   - title: Dimensions of Socio-Economic Inequalities
     company: University, MSc Economics
     company_url: ''
     location: Vienna
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics. 
+    date_start: '2017-02-01'
+    date_end: ''
+    description: Undergraduate class on dimensions, causes and consequences of socio-economic inequalitites that bridges theoretical approaces and recent developments in these research areas. 
     
-  - title: Empirical Social Research 
+  - title: Empirical Social Research Methods
     company: University, MSc Economics
     company_url: ''
     location: Vienna
     date_start: '2016-01-01'
     date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics. 
+    description: Undergraduate course on econometrics
+    
+  - title: Economic Policy
+    company: University, MSc Economics
+    company_url: ''
+    location: Vienna
+    date_start: '2017-02-01'
+    date_end: ''
+    description: Graduate and undergraduate course on topics in economic policy, with a focus on employment and (re-) distribution policies. 
     
 ---
