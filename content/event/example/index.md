@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: I will present our paper "On Top of the Top: Top-Adjusted Wealth Disributions for Fourteen Eurozone Countries" at the ECINEQ 2021 conference. 
+summary: I will present my ongoing work on wealth inequality at the top at the ECINEQ 2021 conference.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
